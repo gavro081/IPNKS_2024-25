@@ -1,3 +1,3 @@
-IPNKS_2024-25
+# IPNKS_2024-25
 
-Coding exercises for Client-Side Internet Programming
+Coding exercises for Client-Side Internet Programming course
